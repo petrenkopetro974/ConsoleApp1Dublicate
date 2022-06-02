@@ -14,6 +14,7 @@ namespace ConsoleApp1
             // Комментарий 6
             // Комментарий 7
             // Добавлен комментарий 8
+            // Добавлен комментарий в репозитории Dubler
             Console.WriteLine("Hello World!");
         }
     }
