@@ -13,6 +13,7 @@ namespace ConsoleApp1
             // Комментарий 5
             // Комментарий 6
             // Комментарий 7
+            // Добавлен комментарий 8
             Console.WriteLine("Hello World!");
         }
     }
